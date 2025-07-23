@@ -1,0 +1,54 @@
+:root {
+    --primary-color: #ff9654;
+
+    --orange-50: #ffefe6;
+    --orange-100: #ffcfb0;
+
+    --orange-500: #e85a00;
+
+    --orange-600: #e85a00;
+
+    --black-500: #333333;
+}
+
+.text-orange-50 {color: var(--orange-50)}
+
+.text-orange-100 {color:var(--orange-100)}
+
+.text-black-500 {color: var(--black-500)}
+
+.text-orange-600 {color: var(--orange-600)}
+
+h1, .h1 {
+    font-size: 69px;
+    
+}
+
+h2, .h2 {
+    font-size: 55px;
+}
+
+h3, .h3 {
+    font-size: 44px;
+}
+
+h4, .h4 {
+    font-size: 35px;
+}
+
+h5, .h5 {
+    font-size: 35px;
+}
+
+h6, .h6 {
+    font-size: 28px;
+}
+
+p, .p {
+    font-size: 18px;
+}
+
+
+
+
+

@@ -1,0 +1,1 @@
+Link download Laragon : https://github.com/leokhoa/laragon/releases/download/6.0.0/laragon-wamp.exe
